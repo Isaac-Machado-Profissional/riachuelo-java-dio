@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c056d424-fb05-4783-a39b-61f7474a4268" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Modulo1_IntroducaoDIO/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo2_IntroducaoRiachuelo/Secao4/A4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo2_IntroducaoRiachuelo/Secao4/A4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo2_IntroducaoRiachuelo/Secao4/A4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo2_IntroducaoRiachuelo/Secao4/A4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo2_IntroducaoRiachuelo/Secao4/A4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo2_IntroducaoRiachuelo/Secao4/A4/src/main/java/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo2_IntroducaoRiachuelo/Secao4/A4/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/Identidade/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/Identidade/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/Identidade/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/Identidade/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/Identidade/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/Identidade/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/1-Identidade/Identidade/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/2-AreaQuadrado/AreaQuadrada/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/2-AreaQuadrado/AreaQuadrada/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/2-AreaQuadrado/AreaQuadrada/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/2-AreaQuadrado/AreaQuadrada/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/2-AreaQuadrado/AreaQuadrada/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/2-AreaQuadrado/AreaQuadrada/AreaQuadrada.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/2-AreaQuadrado/AreaQuadrada/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/3-AreaRetangulo/AreaRetangulo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/3-AreaRetangulo/AreaRetangulo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/3-AreaRetangulo/AreaRetangulo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/3-AreaRetangulo/AreaRetangulo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/3-AreaRetangulo/AreaRetangulo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/3-AreaRetangulo/AreaRetangulo/AreaRetangulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/3-AreaRetangulo/AreaRetangulo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/4-DiferencaIdade/Diferenca-de-Idade/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/4-DiferencaIdade/Diferenca-de-Idade/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/4-DiferencaIdade/Diferenca-de-Idade/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/4-DiferencaIdade/Diferenca-de-Idade/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/4-DiferencaIdade/Diferenca-de-Idade/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/4-DiferencaIdade/Diferenca-de-Idade/Diferenca-de-Idade.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Atividades/4-DiferencaIdade/Diferenca-de-Idade/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/A1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/A1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/br/com/dio/Java21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A1/src/br/com/dio/br/com/AnotherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/.idea/A3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A3/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A4/A4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Modulo3_FundamentosJava/Secao1/A4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-Tabuada/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-Tabuada/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-Tabuada/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-Tabuada/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-Tabuada/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-Tabuada/A-Tabuada.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A-Tabuada/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Peso-Altura-IMC/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Peso-Altura-IMC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Peso-Altura-IMC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Peso-Altura-IMC/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Peso-Altura-IMC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Peso-Altura-IMC/B-Peso-Altura-IMC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B-Peso-Altura-IMC/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-ImparOuPar/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-ImparOuPar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-ImparOuPar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-ImparOuPar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-ImparOuPar/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-ImparOuPar/C-ImparOuPar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C-ImparOuPar/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D-DividindoNumeros.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/1-PoderDirigir/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/Semana.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/Semana/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/2-Semana/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/3-Repeticao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/3-Repeticao/Repeticao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/3-Repeticao/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/3-Repeticao/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/3-Repeticao/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/3-Repeticao/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/3-Repeticao/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Secao1/4-WhileAndDoWhile/NomeacaoInfinita/untitled1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="31FSDYjrOT0kXJ4PC2JAMeJxmqg" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kuro8/OneDrive/Área de Trabalho/New Projects/DiO/Riachuelo/Curso1_Fundamentos-Java/Modulo4_EstruturasDeControleJava/Atividades/D-DividindoNumeros/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="D-DividindoNumeros" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="D-DividindoNumeros" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c056d424-fb05-4783-a39b-61f7474a4268" name="Changes" comment="" />
+      <created>1755118210403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755118210403</updated>
+      <workItem from="1755118212241" duration="760000" />
+      <workItem from="1755283345439" duration="582000" />
+      <workItem from="1755285230809" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
